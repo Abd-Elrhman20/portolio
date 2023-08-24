@@ -298,7 +298,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "http://www.hti.edu.eg/academic-files/Arabic/2145.png",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Higher_Technological_Institute.jpg/133px-Higher_Technological_Institute.jpg",
     school: "Higher Technological Institute (HTI)",
     date: "Sep 2019 - Sep 2023",
     grade: "3.12 GPA",
