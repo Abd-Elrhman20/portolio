@@ -356,7 +356,7 @@ export const projects = [
     // date: "Jun 2023 - Jul 2023",
     description:
       "A Weather website to show weather in next 3 days for any city , The website is built using Html , Css , Bootstarp , javaScript , weather API . The website is hosted on Vercel.",
-    image: "assets/WeatherApi.png",
+    image: "assets/WeatherAPI.png",
     tags: [
       "Html",
       "Css",
