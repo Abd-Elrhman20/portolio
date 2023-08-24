@@ -302,7 +302,7 @@ export const education = [
     school: "Higher Technological Institute (HTI)",
     date: "Sep 2019 - Sep 2023",
     grade: "3.12 GPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science at Higher Technological Institute , Bhubaneswar. I have completed 4 semesters and have a GPA of 3.12 .",
+    desc: "I am a graduate of the Department of Computer Science at Higher Technological Institute. I have completed 4 semesters and have a GPA of 3.12 .",
     degree: "Bachelor of Computer Science",
   },
   {
