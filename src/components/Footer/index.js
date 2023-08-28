@@ -102,7 +102,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
           {/* <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon> */}
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
+          {/* <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon> */}
           <SocialMediaIcon href={`mailto: ${Bio.email}`} target="display"><EmailIcon /></SocialMediaIcon>
           <SocialMediaIcon href={`tel:${Bio.phone}`} target="display"><PhoneIcon /></SocialMediaIcon>
         </SocialMediaIcons>
