@@ -8,7 +8,6 @@ export const Bio = {
   github: "https://github.com/Abd-Elrhman20",
   resume: "https://drive.google.com/file/d/1t-eWPYqUGGLXHvHZMmXp2vT3hmSpO7hn/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abd-elrahman-nawar-827110217/",
-  // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/abd_elrhmannawar/",
   facebook: "https://www.facebook.com/profile.php?id=100005096977324",
   email: "mana201638@gmail.com",
