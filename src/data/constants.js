@@ -183,8 +183,28 @@ export const projects = [
     github: "https://github.com/Abd-Elrhman20/Rental-Car.git",
     webapp: "https://drive.google.com/file/d/1HyrNH2V7bgW448WssKKG04qsr_j79oQH/view?usp=sharing",
   },
-  {
+   {
     id: 2,
+    title: "Taxi-Go",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A responsive page to book a taxi , this website is a training exercise for Next.Js while learning it. The website is built using Next 13 , Tailwnid , Stripe payment method , MapBox - react-map-gl , Bootstarp . The website is hosted on Vercel.",
+    image: "assets/taxi-go.png",
+    tags: [
+      "Next.js v13",
+      "Tailwind",
+      "Bootstrap",
+      "MapBox",
+      "React-Map-gl",
+      "Stripe",
+      "UseContext from React to share data",
+    ],
+    category: "web app",
+    github: "https://github.com/Abd-Elrhman20/Taxi-Go.git",
+    webapp: "https://taxi-go-taupe.vercel.app//",
+  },
+  {
+    id: 3,
     title: "landing page",
     // date: "Jun 2023 - Jul 2023",
     description:
@@ -200,7 +220,7 @@ export const projects = [
     webapp: "https://reoute-task6.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "ًWeather Website",
     // date: "Jun 2023 - Jul 2023",
     description:
@@ -217,7 +237,7 @@ export const projects = [
     webapp: "https://wheather-website-api.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "landing page",
     // date: "Jun 2023 - Jul 2023",
     description:
@@ -233,7 +253,7 @@ export const projects = [
     webapp: "https://route-task4-15466a2j4-abd-elrhman20.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Crud Operations",
     // date: "Jun 2023 - Jul 2023",
     description:
@@ -249,6 +269,4 @@ export const projects = [
     github: "https://github.com/Abd-Elrhman20/Crud_operation.git",
     webapp: "https://crud-operation-omega.vercel.app/",
   },
-
-
 ];
