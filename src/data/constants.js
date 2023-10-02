@@ -188,7 +188,7 @@ export const projects = [
     title: "Taxi-Go",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A responsive page to book a taxi , this website is a training exercise for Next.Js while learning it. The website is built using Next 13 , Clerk , Tailwnid , Stripe payment method , MapBox - react-map-gl , Bootstarp . The website is hosted on Vercel.",
+      "A responsive page to book a taxi , this website is a training exercise for Next.Js while learning it. The website is built using Next 13 , Clerk , Tailwnid , Stripe payment method , MapBox && react-map-gl , Bootstarp . The website is hosted on Vercel.",
     image: "assets/taxi-go.png",
     tags: [
       "Next.js v13",
