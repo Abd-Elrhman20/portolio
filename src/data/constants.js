@@ -204,8 +204,30 @@ export const projects = [
     github: "https://github.com/Abd-Elrhman20/Taxi-Go.git",
     webapp: "https://taxi-go-taupe.vercel.app//",
   },
-  {
+     {
     id: 3,
+    title: "Amazon-Clone",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A responsive Amazone-Clone , this website is a training exercise for Next.Js while learning it. The website is built using Next 13 , Clerk , Tailwnid , Stripe payment method , Redux-Tollkit .... The website is hosted on Vercel.",
+    image: "assets/Amazon.png",
+    tags: [
+      "Next.js v13",
+      "Tailwind",
+      "Redux-Toolkit",
+      "Clerk",
+      "Stripe",
+      "react-query (to fetch response from api)",
+      "react-responsive-carousel",
+      "react-spinners",
+      "redux-persist from Redux-Toolkit to save data into local storage",
+    ],
+    category: "web app",
+    github: "https://github.com/Abd-Elrhman20/Amazon-Clone.git",
+    webapp: "https://amazon-clone-dx6k08f2x-abd-elrhman20.vercel.app/",
+  },
+  {
+    id: 4,
     title: "landing page",
     // date: "Jun 2023 - Jul 2023",
     description:
@@ -221,7 +243,7 @@ export const projects = [
     webapp: "https://reoute-task6.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "ًWeather Website",
     // date: "Jun 2023 - Jul 2023",
     description:
@@ -238,7 +260,7 @@ export const projects = [
     webapp: "https://wheather-website-api.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "landing page",
     // date: "Jun 2023 - Jul 2023",
     description:
@@ -254,7 +276,7 @@ export const projects = [
     webapp: "https://route-task4-15466a2j4-abd-elrhman20.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Crud Operations",
     // date: "Jun 2023 - Jul 2023",
     description:
