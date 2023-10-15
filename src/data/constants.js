@@ -127,6 +127,7 @@ export const education = [
     id: 0,
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Higher_Technological_Institute.jpg/133px-Higher_Technological_Institute.jpg",
     school: "Higher Technological Institute (HTI)",
+    logo: "https://drive.google.com/file/d/136QQzb7GQZvsxup32StEmSV8O7ycj95l/view?usp=drivesdk",
     date: "Sep 2019 - Sep 2023",
     grade: "3.12 GPA",
     desc: "I am a graduate of the Department of Computer Science at Higher Technological Institute. I have completed 4 semesters and have a GPA of 3.12 .",
