@@ -55,7 +55,7 @@ export const skills = [
       {
          name: "Tailwnid Css",
          image:
-           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLFMeBe2-dwlYyOX2lbsvjc_fGuk0_Y_juCuOekqA8RAbQQOER7Tm_fcvTBtSxP59D3xc&usqp=CAU",
+           "https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png",
       },
       {
         name: "jQuery",
