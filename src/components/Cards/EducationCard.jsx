@@ -135,6 +135,7 @@ const media = {
 
 const EducationCard = ({ education }) => {
     return (
+    <div className="EducationCard">
         <Card>
             <Top>
                 {education.logo ? <a style={{ cursor: "pointer" }} href={education.logo} target='_blank'> <img style={{height: "50px", backgroundColor: "#000", borderRadius: "10px", marginTop: "4px" , media }} src={education.img} /> </a> : <Image src={education.img} />}
@@ -153,6 +154,7 @@ const EducationCard = ({ education }) => {
             </button>
             </a>
         </Card>
+    </div>
     )
 }
 
