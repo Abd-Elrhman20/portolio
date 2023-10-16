@@ -43,5 +43,5 @@ body{
 
 
 .EducationCard:hover .checkCertificate{
-    display:block
+    display:block !important ;
 }
