@@ -42,6 +42,6 @@ body{
 
 
 
-hover: .checkCertificate{
+.EducationCard:hover .checkCertificate{
     display:block
 }
