@@ -148,6 +148,10 @@ const EducationCard = ({ education }) => {
             <Description>
                 <Span>{education.desc}</Span>
             </Description>
+            <a href={education.logo} target='_blank' >
+            <button className='btn btn-secondary mb-1 mt-0'>Check
+            </button>
+            </a>
         </Card>
     )
 }
