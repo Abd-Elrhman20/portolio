@@ -137,7 +137,7 @@ const EducationCard = ({ education }) => {
     return (
         <Card>
             <Top>
-                {education.logo ? <a style={{ cursor: "pointer" }} href="https://drive.google.com/file/d/10NNqhwQbZO-IpbyoZpTfsTL-MTdLPWwa/view?usp=drive_link" target='_blank'> <img style={{height: "50px", backgroundColor: "#000", borderRadius: "10px", marginTop: "4px" , media }} src={education.img} /> </a> : <Image src={education.img} />}
+                {education.logo ? <a style={{ cursor: "pointer" }} href={education.logo} target='_blank'> <img style={{height: "50px", backgroundColor: "#000", borderRadius: "10px", marginTop: "4px" , media }} src={education.img} /> </a> : <Image src={education.img} />}
                 <Body>
                     <Name>{education.school}</Name>
                     <Degree>{education.degree}</Degree>
