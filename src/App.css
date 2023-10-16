@@ -39,3 +39,9 @@ body{
   ::-webkit-scrollbar-thumb:hover {
     background: #626970;
   }
+
+
+
+hover: .checkCertificate{
+    display:block
+}
