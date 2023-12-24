@@ -135,7 +135,7 @@ export const education = [
     logo: "https://drive.google.com/file/d/136QQzb7GQZvsxup32StEmSV8O7ycj95l/view?usp=drivesdk",
     date: "Sep 2019 - Aug 2023",
     grade: "3.12 GPA",
-    desc: "I am a graduate of the Department of Computer Science at Higher Technological Institute. I have completed 12 semesters and have a GPA of 3.12 .",
+    desc: "I am a graduate of the Department of Computer Science at The Higher Technological Institute. I have completed 12 semesters and have a GPA of 3.12.",
     degree: "Bachelor of Computer Science",
   },
   {
