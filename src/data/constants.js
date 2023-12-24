@@ -133,9 +133,9 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Higher_Technological_Institute.jpg/133px-Higher_Technological_Institute.jpg",
     school: "Higher Technological Institute (HTI)",
     logo: "https://drive.google.com/file/d/136QQzb7GQZvsxup32StEmSV8O7ycj95l/view?usp=drivesdk",
-    date: "Sep 2019 - Sep 2023",
+    date: "Sep 2019 - Aug 2023",
     grade: "3.12 GPA",
-    desc: "I am a graduate of the Department of Computer Science at Higher Technological Institute. I have completed 4 semesters and have a GPA of 3.12 .",
+    desc: "I am a graduate of the Department of Computer Science at Higher Technological Institute. I have completed 12 semesters and have a GPA of 3.12 .",
     degree: "Bachelor of Computer Science",
   },
   {
@@ -143,9 +143,9 @@ export const education = [
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAAnFBMVEUJU5AATY4AUY8AT44AR4oAR4x2kasJVI9Ud5sAQIYASYqYq8anudR/l7BxjLJNb6COpLkAPYXAzdt/l7uVpsSrvdBPdqTQ2eNnia8AOoRdgayQobwlXJE/a5hYeqWNpMDa5OofWYitu8gANoTQ3d5siKQ2YpNBap/H0tZ3kK84Y5q2xNNjfqwPToRGapJ6k7yar72gsse0w8ouWpW9EVWcAAACr0lEQVRoge2W23aiMBSGycmQiJSEYopamyoqglpb3v/dJpxsbRvtOKs3s/ItL5RsfvYZPc/hcDgcDofD4XA4fgHEMcGEAHjZ6vKx7a5J0jCdEXrBavx4izoJRvOx4UlFzG7FhwPw99qUBD5HBgJkRKxm+CZx47mPmi+Q6Wdr6LeJ05O4hx4W+NfEvWWGbGb/LE7TzDN5QZiR5gp6l0NsuEpZS506iIUgVk8snhtxMk9ksuLUQ7ttf4Dm/r2WLeXa2GxepUrm9vp/I17lGPIkfxjvypxDEEe96yAe3Ud3HdTDYbbdFHMV8Z+L42SASbJYmr5k2xx/Eh80DYvMpKKN3nMIkSgjawN8FidzzdAuXzZzKoKIvZyLnyqA9b69g6nDlbElwaEulSBDzY35YxeGyJBFHEwW3SiD8HjFdRJo1fBqQi1kvwJYcrCIk8THbYZAkQvLPgIAIPMRwarY6KKg2GRzd+zF+XRkEedyG/bo1OLy5KFhIn0Adm+kzh56jxO8RN+LQ6SiYU9sSUule4sZpKl5Qive9y6YRrvTk/jT6l0cS8E5brFt6Spb8pbaZ6L30KPg7pRzHvibXHQ/hPR7cTTxy9NgFANLp1fZx2KAcMEoDp/Vurtxmc2A2redBqucxdNWhw+380UXHn6yjRE8f7UQuRJhjuKuojxecBy+tfUSyYigrD0Qao11+86DQM1sfX6+d2ChQoUhkAMGoceLOk1YjhiCKJ3mwMNlcyCGR4LGihqPEZHba/Pfg+NaD1bqWHlVrNd1ipl8OxR3ZU6NI1xFM68Kcko9EmerqtqpEb/w1j0HNJVF7N4M1KKLS4SlklvRbtmh1nrabFxSJEqVj1e34hcgEGmK+1wCIhjo/ONpKro81Psc3/Rng1JLtB+v/zghDofD4XA4HA6H4//jD8OPMikb1YsSAAAAAElFTkSuQmCC",
     school: "Route Academy",
     logo: "https://drive.google.com/file/d/10NNqhwQbZO-IpbyoZpTfsTL-MTdLPWwa/view?usp=drive_link",
-    date: "Feb 2022 - Oct 2022",
+    date: "Jun 2022 - Dec 2022",
     // grade: "3.12 GPA",
-    desc: "I'v taken a front end React.js course in Route Academy.",
+    desc: "I Successfully Completed the Web Development track (front-end react.js) Diploma in Route academy, this course certified by Route IT Training Center.",
     degree: "web development using react js",
   },
 
