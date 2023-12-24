@@ -4,7 +4,7 @@ export const Bio = {
     "Front End Developer"
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Abd-Elrhman20",
   resume: "https://drive.google.com/file/d/1t-eWPYqUGGLXHvHZMmXp2vT3hmSpO7hn/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abd-elrahman-nawar-827110217/",
@@ -135,7 +135,7 @@ export const education = [
     logo: "https://drive.google.com/file/d/136QQzb7GQZvsxup32StEmSV8O7ycj95l/view?usp=drivesdk",
     date: "Sep 2019 - Aug 2023",
     grade: "3.12 GPA",
-    desc: "I am a graduate of the Department of Computer Science at The Higher Technological Institute. I have completed 12 semesters and have a GPA of 3.12.",
+    desc: "I am a graduate of the Department of Computer Science at Higher Technological Institute. I have completed 12 semesters and have a GPA of 3.12 .",
     degree: "Bachelor of Computer Science",
   },
   {
@@ -145,7 +145,7 @@ export const education = [
     logo: "https://drive.google.com/file/d/10NNqhwQbZO-IpbyoZpTfsTL-MTdLPWwa/view?usp=drive_link",
     date: "Jun 2022 - Dec 2022",
     // grade: "3.12 GPA",
-    desc: "I Successfully Completed the Web Development (Front-end React.js) Diploma in Route academy, this course certified by Route IT Training Center.",
+    desc: "I Successfully Completed the Web Development (Front-end React.js) Diploma in Route Academy; this course was certified by Route IT Training Center.",
     degree: "web development using react js",
   },
 
@@ -157,7 +157,7 @@ export const projects = [
     title: "Movie DB WebSite",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A movie database responsive website that allows users to search for movies and TV shows. The website is built using ReactJS, Redux, MovieDB API, and Route API. The website is hosted on Vercel.",
+      "The website gets trending Movies, TV shows, and Actors in an attractive design and gives you the ability to search for movies and TV shows. The website was built using ReactJS, Redux, Movie DB API, and Route Academy API, The website is hosted on Vercel.",
     image: "assets/MovieDB.png",
     tags: [
       "React Js",
@@ -172,7 +172,7 @@ export const projects = [
     title: "Rental Car",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "This is my Graduation Project and I did the project almost alone, I did like 90% of the project by myself, I did the backend and the frontend, I used React JS, Redux, Bootstrap, Node JS, mongo DB, Twilio SMS, Google Cloud Vision AI, Stripe Payment.  ",
+      "This is my Graduation Project and I did the project almost alone, I did like 90% of the project by myself, Modifying the backend and creating the frontend, I used React.js, Redux, Bootstrap, Node js, mongo DB, Twilio SMS, Google Cloud Vision AI, Stripe Payment.",
     image: "assets/Rental.png",
     tags: [
       "React Js",
@@ -191,31 +191,10 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Taxi-Go",
-    // date: "Jun 2023 - Jul 2023",
-    description:
-      "A responsive page to book a taxi, this website is a training exercise for Next.Js while learning it. The website was built using Next 13, Clerk, Tailwnid, Stripe payment method, MapBox && react-map-gl, Bootstrap. The website is hosted on Vercel.",
-    image: "assets/taxi-go.png",
-    tags: [
-      "Next.js v13",
-      "Tailwind",
-      "Bootstrap",
-      "Clerk",
-      "MapBox",
-      "React-Map-gl",
-      "Stripe",
-      "UseContext (from React to share data)",
-    ],
-    category: "web app",
-    github: "https://github.com/Abd-Elrhman20/Taxi-Go.git",
-    webapp: "https://taxi-go-taupe.vercel.app//",
-  },
-  {
-    id: 3,
     title: "Amazon-Clone",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A responsive Amazone-Clone, this website is a training exercise for Next.Js while learning it. The website was built using Next 13, Clerk, Tailwnid, Stripe payment method, and Redux-Toolkit, The website is hosted on Vercel.",
+      "A responsive Amazon-Clone, this website is a training exercise for Next. Js while learning it. The website was built using Next 13, Clerk, Tailwind, Stripe payment method, and Redux-Toolkit, The website is hosted on Vercel.",
     image: "assets/Amazon.png",
     tags: [
       "Next.js v13",
@@ -231,6 +210,27 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Abd-Elrhman20/Amazon-Clone.git",
     webapp: "https://amazon-clone-dx6k08f2x-abd-elrhman20.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Taxi-Go",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+      "A responsive page to book a taxi, this website is a training exercise for Next. Js while learning it. The website is built using Next 13, Clerk, Tailwind, Stripe payment method, MapBox && react-map-gl, and Bootstrap. The website is hosted on Vercel.",
+    image: "assets/taxi-go.png",
+    tags: [
+      "Next.js v13",
+      "Tailwind",
+      "Bootstrap",
+      "Clerk",
+      "MapBox",
+      "React-Map-gl",
+      "Stripe",
+      "UseContext (from React to share data)",
+    ],
+    category: "web app",
+    github: "https://github.com/Abd-Elrhman20/Taxi-Go.git",
+    webapp: "https://taxi-go-taupe.vercel.app//",
   },
   {
     id: 4,
@@ -253,7 +253,7 @@ export const projects = [
     title: "ًWeather Website",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A Weather website to show weather in the next 3 days for any city, The website was built using HTML, CSS, Bootstrap, JavaScript, and weather API, The website is hosted on Vercel.",
+      "A Weather website to show the weather in the next 3 days for any city, The website is built using HTML, CSS, Bootstrap, JavaScript, and weather API, The website is hosted on Vercel.",
     image: "assets/WeatherAPI.png",
     tags: [
       "Html",
