@@ -145,7 +145,7 @@ export const education = [
     logo: "https://drive.google.com/file/d/10NNqhwQbZO-IpbyoZpTfsTL-MTdLPWwa/view?usp=drive_link",
     date: "Jun 2022 - Dec 2022",
     // grade: "3.12 GPA",
-    desc: "I Successfully Completed the Web Development track (front-end react.js) Diploma in Route academy, this course certified by Route IT Training Center.",
+    desc: "I Successfully Completed the Web Development (Front-end React.js) Diploma in Route academy, this course certified by Route IT Training Center.",
     degree: "web development using react js",
   },
 
