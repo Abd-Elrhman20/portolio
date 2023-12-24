@@ -29,9 +29,9 @@ export const skills = [
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
       {
-         name: "Next Js",
-         image:
-           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+        name: "Next Js",
+        image:
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
       },
       {
         name: "HTML",
@@ -53,9 +53,9 @@ export const skills = [
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
       {
-         name: "Tailwnid Css",
-         image:
-           "https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png",
+        name: "Tailwnid Css",
+        image:
+          "https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png",
       },
       {
         name: "jQuery",
@@ -92,9 +92,9 @@ export const skills = [
           "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/dtokjerhk1dxyludtlwc",
       },
       {
-        name: "Netlify",
+        name: "Jest",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://assets.stickpng.com/images/62a765a3bd73a4af5c5d4fba.png",
       },
       {
         name: "VS Code",
@@ -125,7 +125,7 @@ export const skills = [
   },
 ];
 
- export const experiences = [];
+export const experiences = [];
 
 export const education = [
   {
@@ -142,7 +142,7 @@ export const education = [
     id: 1,
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAAnFBMVEUJU5AATY4AUY8AT44AR4oAR4x2kasJVI9Ud5sAQIYASYqYq8anudR/l7BxjLJNb6COpLkAPYXAzdt/l7uVpsSrvdBPdqTQ2eNnia8AOoRdgayQobwlXJE/a5hYeqWNpMDa5OofWYitu8gANoTQ3d5siKQ2YpNBap/H0tZ3kK84Y5q2xNNjfqwPToRGapJ6k7yar72gsse0w8ouWpW9EVWcAAACr0lEQVRoge2W23aiMBSGycmQiJSEYopamyoqglpb3v/dJpxsbRvtOKs3s/ItL5RsfvYZPc/hcDgcDofD4XA4fgHEMcGEAHjZ6vKx7a5J0jCdEXrBavx4izoJRvOx4UlFzG7FhwPw99qUBD5HBgJkRKxm+CZx47mPmi+Q6Wdr6LeJ05O4hx4W+NfEvWWGbGb/LE7TzDN5QZiR5gp6l0NsuEpZS506iIUgVk8snhtxMk9ksuLUQ7ttf4Dm/r2WLeXa2GxepUrm9vp/I17lGPIkfxjvypxDEEe96yAe3Ud3HdTDYbbdFHMV8Z+L42SASbJYmr5k2xx/Eh80DYvMpKKN3nMIkSgjawN8FidzzdAuXzZzKoKIvZyLnyqA9b69g6nDlbElwaEulSBDzY35YxeGyJBFHEwW3SiD8HjFdRJo1fBqQi1kvwJYcrCIk8THbYZAkQvLPgIAIPMRwarY6KKg2GRzd+zF+XRkEedyG/bo1OLy5KFhIn0Adm+kzh56jxO8RN+LQ6SiYU9sSUule4sZpKl5Qive9y6YRrvTk/jT6l0cS8E5brFt6Spb8pbaZ6L30KPg7pRzHvibXHQ/hPR7cTTxy9NgFANLp1fZx2KAcMEoDp/Vurtxmc2A2redBqucxdNWhw+380UXHn6yjRE8f7UQuRJhjuKuojxecBy+tfUSyYigrD0Qao11+86DQM1sfX6+d2ChQoUhkAMGoceLOk1YjhiCKJ3mwMNlcyCGR4LGihqPEZHba/Pfg+NaD1bqWHlVrNd1ipl8OxR3ZU6NI1xFM68Kcko9EmerqtqpEb/w1j0HNJVF7N4M1KKLS4SlklvRbtmh1nrabFxSJEqVj1e34hcgEGmK+1wCIhjo/ONpKro81Psc3/Rng1JLtB+v/zghDofD4XA4HA6H4//jD8OPMikb1YsSAAAAAElFTkSuQmCC",
     school: "Route Academy",
-    logo:"https://drive.google.com/file/d/10NNqhwQbZO-IpbyoZpTfsTL-MTdLPWwa/view?usp=drive_link",
+    logo: "https://drive.google.com/file/d/10NNqhwQbZO-IpbyoZpTfsTL-MTdLPWwa/view?usp=drive_link",
     date: "Feb 2022 - Oct 2022",
     // grade: "3.12 GPA",
     desc: "I'v taken a front end React.js course in Route Academy.",
@@ -157,7 +157,7 @@ export const projects = [
     title: "Movie DB WebSite",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A movie database responsive website that allows users to search for movies and TV shows. The website is built using ReactJS, Redux , MovieDB API , Route API . The website is hosted on Vercel.",
+      "A movie database responsive website that allows users to search for movies and TV shows. The website is built using ReactJS, Redux, MovieDB API, and Route API. The website is hosted on Vercel.",
     image: "assets/MovieDB.png",
     tags: [
       "React Js",
@@ -167,12 +167,12 @@ export const projects = [
     github: "https://github.com/Abd-Elrhman20/Noxe-updated.git",
     webapp: "https://noxe-updated.vercel.app/",
   },
-    {
+  {
     id: 1,
     title: "Rental Car",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "This is my Graduation Project and i did the project almost alone , i did like 90% of the project by my self , i did the backend and the frontend , i used React js , Redux , Bootstrap , Node js , mongo DB , Twillo SMS , Google Cloude Vision AI , Stripe Payment .  ",
+      "This is my Graduation Project and I did the project almost alone, I did like 90% of the project by myself, I did the backend and the frontend, I used React JS, Redux, Bootstrap, Node JS, mongo DB, Twilio SMS, Google Cloud Vision AI, Stripe Payment.  ",
     image: "assets/Rental.png",
     tags: [
       "React Js",
@@ -182,19 +182,19 @@ export const projects = [
       "Node js",
       "mongo DB",
       "Twillo SMS",
-      "Google Cloude Vision AI",
+      "Google Cloud Vision AI",
       "Stripe Payment",
     ],
     category: "web app",
     github: "https://github.com/Abd-Elrhman20/Rental-Car.git",
     webapp: "https://drive.google.com/file/d/1HyrNH2V7bgW448WssKKG04qsr_j79oQH/view?usp=sharing",
   },
-   {
+  {
     id: 2,
     title: "Taxi-Go",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A responsive page to book a taxi , this website is a training exercise for Next.Js while learning it. The website is built using Next 13 , Clerk , Tailwnid , Stripe payment method , MapBox && react-map-gl , Bootstarp . The website is hosted on Vercel.",
+      "A responsive page to book a taxi, this website is a training exercise for Next.Js while learning it. The website was built using Next 13, Clerk, Tailwnid, Stripe payment method, MapBox && react-map-gl, Bootstrap. The website is hosted on Vercel.",
     image: "assets/taxi-go.png",
     tags: [
       "Next.js v13",
@@ -210,12 +210,12 @@ export const projects = [
     github: "https://github.com/Abd-Elrhman20/Taxi-Go.git",
     webapp: "https://taxi-go-taupe.vercel.app//",
   },
-     {
+  {
     id: 3,
     title: "Amazon-Clone",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A responsive Amazone-Clone , this website is a training exercise for Next.Js while learning it. The website is built using Next 13 , Clerk , Tailwnid , Stripe payment method , Redux-Tollkit .... The website is hosted on Vercel.",
+      "A responsive Amazone-Clone, this website is a training exercise for Next.Js while learning it. The website was built using Next 13, Clerk, Tailwnid, Stripe payment method, and Redux-Toolkit, The website is hosted on Vercel.",
     image: "assets/Amazon.png",
     tags: [
       "Next.js v13",
@@ -223,7 +223,7 @@ export const projects = [
       "Redux-Toolkit",
       "Clerk",
       "Stripe",
-      "react-query (to fetch response from api)",
+      "react-query (to fetch the response from API)",
       "react-responsive-carousel",
       "react-spinners",
       "redux-persist (from Redux-Toolkit to save data into local storage)",
@@ -237,7 +237,7 @@ export const projects = [
     title: "landing page",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A responsive landing page protfolio , this website was a task from Route Academy. The website is built using Html , Css , Bootstarp . The website is hosted on Vercel.",
+      "A responsive landing page portfolio, this website was a task from Route Academy. The website was built using HTML, CSS, and Bootstrap. The website is hosted on Vercel.",
     image: "assets/Morgan(task6).png",
     tags: [
       "Html",
@@ -253,7 +253,7 @@ export const projects = [
     title: "ًWeather Website",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A Weather website to show weather in next 3 days for any city , The website is built using Html , Css , Bootstarp , javaScript , weather API . The website is hosted on Vercel.",
+      "A Weather website to show weather in the next 3 days for any city, The website was built using HTML, CSS, Bootstrap, JavaScript, and weather API, The website is hosted on Vercel.",
     image: "assets/WeatherAPI.png",
     tags: [
       "Html",
@@ -270,7 +270,7 @@ export const projects = [
     title: "landing page",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A landing page protfolio , this website was a task from Route Academy. The website is built using Html , Css , Bootstarp . The website is hosted on Vercel.",
+      "A landing page portfolio, this website was a task from Route Academy. The website was built using HTML, CSS, and Bootstrap. The website is hosted on Vercel.",
     image: "assets/Fokir(task4).png",
     tags: [
       "Html",
@@ -286,7 +286,7 @@ export const projects = [
     title: "Crud Operations",
     // date: "Jun 2023 - Jul 2023",
     description:
-      "A Crud Operaions task , this website was a task from Route Academy. The website is built using Html , Css , Bootstarp, javaScript . The website is hosted on Vercel.",
+      "A Crud Operations task, this website was a task from Route Academy. The website was built using HTML, CSS, Bootstrap, and JavaScript. The website is hosted on Vercel.",
     image: "assets/CrudOperations.png",
     tags: [
       "Html",
