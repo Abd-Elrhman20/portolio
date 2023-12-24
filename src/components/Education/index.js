@@ -88,7 +88,7 @@ const index = () => {
                 <TimelineSection>
                     <Timeline>
                         {education.map((education,index) => (
-                            <TimelineItem >
+                            <TimelineItem className='m-auto'>
                                 <TimelineContent sx={{ py: '12px', px: 2 }}>
                                     <EducationCard education={education}/>
                                 </TimelineContent>
