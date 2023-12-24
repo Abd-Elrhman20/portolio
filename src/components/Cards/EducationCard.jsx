@@ -129,32 +129,33 @@ const Grade = styled.div`
 const media = {
     '@media (max-width: 768px)': {
         height: '40px',
-}}
+    }
+}
 
 
 
 const EducationCard = ({ education }) => {
     return (
-    <div className="EducationCard">
-        <Card>
-            <Top>
-                {education.logo ? <a style={{ cursor: "pointer" }} href={education.logo} target='_blank'> <img style={{height: "50px", backgroundColor: "#000", borderRadius: "10px", marginTop: "4px" , media }} src={education.img} /> </a> : <Image src={education.img} />}
-                <Body>
-                    <Name>{education.school}</Name>
-                    <Degree>{education.degree}</Degree>
-                    <Date>{education.date}</Date>
-                </Body>
-            </Top>
-            <Grade>{education.grade ? <div> <b>Grade: </b>{education.grade}</div> : ""}</Grade>
-            <Description>
-                <Span>{education.desc}</Span>
-            </Description>
-            <a className='d-none checkCertificate' href={education.logo} target='_blank' >
-            <button className='btn btn-secondary mb-1 mt-0'>Check
-            </button>
-            </a>
-        </Card>
-    </div>
+        <div className="EducationCard position-relative">
+            <Card>
+                <Top>
+                    {education.logo ? <a style={{ cursor: "pointer" }} href={education.logo} target='_blank'> <img style={{ height: "50px", backgroundColor: "#000", borderRadius: "10px", marginTop: "4px", media }} src={education.img} /> </a> : <Image src={education.img} />}
+                    <Body>
+                        <Name>{education.school}</Name>
+                        <Degree>{education.degree}</Degree>
+                        <Date>{education.date}</Date>
+                    </Body>
+                </Top>
+                <Grade>{education.grade ? <div> <b>Grade: </b>{education.grade}</div> : ""}</Grade>
+                <Description>
+                    <Span>{education.desc}</Span>
+                </Description>
+                <a className='checkCertificate position-absolute' style={{ visibility: "hidden", right: "1.5rem", color: "#844ce6" }} href={education.logo} target='_blank' >
+                    {/* <button className='btn btn-secondary mb-1 mt-0'>Check</button> */}
+                    <i class="gg-arrow-right-r"></i>
+                </a>
+            </Card>
+        </div>
     )
 }
 
