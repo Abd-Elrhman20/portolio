@@ -94,7 +94,7 @@ export const skills = [
       {
         name: "Jest",
         image:
-          "https://assets.stickpng.com/images/62a765a3bd73a4af5c5d4fba.png",
+          "https://jestjs.io/img/jest.png",
       },
       {
         name: "VS Code",
