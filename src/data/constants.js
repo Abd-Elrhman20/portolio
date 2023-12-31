@@ -162,6 +162,13 @@ export const projects = [
     tags: [
       "React Js",
       "Redux-Toolkit",
+      "Bootstrap",
+      "joi",
+      "jwt-decode",
+      "jquery",
+      "react-router-dom",
+      "axios",
+      "fortawesome",
     ],
     category: "web app",
     github: "https://github.com/Abd-Elrhman20/Noxe-updated.git",
