@@ -90,7 +90,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Abd-Elrahman</Logo>
+        <Logo>Abdelrhman</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -107,7 +107,7 @@ function Footer() {
           <SocialMediaIcon href={`tel:${Bio.phone}`} target="display"><PhoneIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Abd-Elrahman. All rights reserved.
+          &copy; 2023 Abdelrhman. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
