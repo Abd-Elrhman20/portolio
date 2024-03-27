@@ -107,7 +107,7 @@ function Footer() {
           <SocialMediaIcon href={`tel:${Bio.phone}`} target="display"><PhoneIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Abdelrhman. All rights reserved.
+          &copy; 2024 Abdelrhman. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
