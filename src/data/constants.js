@@ -7,7 +7,8 @@ export const Bio = {
   description:
     "As a motivated and detail-oriented Junior MERN Stack Developer, I aim to leverage my knowledge of MongoDB, Express.js, React.js, and Node.js to contribute to dynamic and innovative projects. My goal is to join a forward-thinking team where I can apply my skills in developing responsive and efficient web applications, while continuously learning and growing within a collaborative environment. I am eager to bring my enthusiasm for coding, problem-solving abilities, and dedication to delivering high-quality software solutions to your organization.",
   github: "https://github.com/Abd-Elrhman20",
-  resume: "https://drive.google.com/file/d/1t-eWPYqUGGLXHvHZMmXp2vT3hmSpO7hn/view?usp=sharing",
+  // resume: "https://drive.google.com/file/d/1t-eWPYqUGGLXHvHZMmXp2vT3hmSpO7hn/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1R4_xKQLukhsYeUeaaoKHw4gYVrn0-rjX/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/abdelrhmannawar/",
   insta: "https://www.instagram.com/abd_elrhmannawar/",
   facebook: "https://www.facebook.com/profile.php?id=100005096977324",
