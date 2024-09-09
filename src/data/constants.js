@@ -75,7 +75,7 @@ export const skills = [
       },
     ],
   },
-    {
+  {
     title: "Backend",
     skills: [
       {
