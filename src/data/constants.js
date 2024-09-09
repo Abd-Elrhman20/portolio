@@ -1,10 +1,11 @@
 export const Bio = {
   name: "Abdelrhman",
   roles: [
-    "Front End Developer"
+    "Front End Developer",
+    "Back End Developer"
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "As a motivated and detail-oriented Junior MERN Stack Developer, I aim to leverage my knowledge of MongoDB, Express.js, React.js, and Node.js to contribute to dynamic and innovative projects. My goal is to join a forward-thinking team where I can apply my skills in developing responsive and efficient web applications, while continuously learning and growing within a collaborative environment. I am eager to bring my enthusiasm for coding, problem-solving abilities, and dedication to delivering high-quality software solutions to your organization.",
   github: "https://github.com/Abd-Elrhman20",
   resume: "https://drive.google.com/file/d/1t-eWPYqUGGLXHvHZMmXp2vT3hmSpO7hn/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abdelrhmannawar/",
